@@ -13,11 +13,13 @@ public class Repeat extends AbstractStateMachine {
     }
 
 
+    @Override
     public void reset() {
         action.reset();
     }
 
 
+    @Override
     public void update(float dt) {
         if (! action.isBusy()){
             reset();

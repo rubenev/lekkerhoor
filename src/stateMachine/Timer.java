@@ -10,11 +10,13 @@ public class Timer extends AbstractStateMachine {
         this.isBusy = true;
     }
 
+    @Override
     public void reset() {
         time = initialTime;
         setBusy(true);
     }
 
+    @Override
     public void update(float dt) {
         time -= dt;
         if(time <= 0){

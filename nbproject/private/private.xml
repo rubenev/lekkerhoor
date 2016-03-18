@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mac_f/Dropbox/Development/Dev3/FinalGame/src/component/Drawable.java</file>
+            <file>file:/C:/Users/mac_f/Dropbox/Development/Dev3/FinalGame/src/stateMachine/Repeat.java</file>
+            <file>file:/C:/Users/mac_f/Dropbox/Development/Dev3/FinalGame/src/Game/Game.java</file>
+            <file>file:/C:/Users/mac_f/Dropbox/Development/Dev3/FinalGame/src/Game/GameState.java</file>
+            <file>file:/C:/Users/mac_f/Dropbox/Development/Dev3/FinalGame/src/stateMachine/AbstractStateMachine.java</file>
+            <file>file:/C:/Users/mac_f/Dropbox/Development/Dev3/FinalGame/src/container/IContainer.java</file>
+            <file>file:/C:/Users/mac_f/Dropbox/Development/Dev3/FinalGame/src/component/IComponent.java</file>
+            <file>file:/C:/Users/mac_f/Dropbox/Development/Dev3/FinalGame/src/factory/IkeaFactory.java</file>
+            <file>file:/C:/Users/mac_f/Dropbox/Development/Dev3/FinalGame/src/truck/ITruck.java</file>
+            <file>file:/C:/Users/mac_f/Dropbox/Development/Dev3/FinalGame/src/factory/IFactory.java</file>
+            <file>file:/C:/Users/mac_f/Dropbox/Development/Dev3/FinalGame/src/stateMachine/IStateMachine.java</file>
+            <file>file:/C:/Users/mac_f/Dropbox/Development/Dev3/FinalGame/src/component/Updateable.java</file>
+            <file>file:/C:/Users/mac_f/Dropbox/Development/Dev3/FinalGame/src/factory/MiningFactory.java</file>
+        </group>
+    </open-files>
+</project-private>

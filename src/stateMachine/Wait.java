@@ -9,10 +9,12 @@ public class Wait extends AbstractStateMachine {
         this.condition = condition;
     }
 
+    @Override
     public void reset() {
         setBusy(true);
     }
 
+    @Override
     public void update(float dt) {
         try {
             if(condition.call()){
